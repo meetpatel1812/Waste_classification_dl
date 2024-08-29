@@ -1,0 +1,6 @@
+streamlit
+opencv
+cv2
+tensorflow
+numpy
+gdown
