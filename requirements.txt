@@ -1,6 +1,5 @@
 streamlit
-opencv
-cv2
+python-opencv
 tensorflow
 numpy
 gdown
